@@ -5,7 +5,7 @@ notes: |
   see you all later and happy coding! 
 ---
 
-<!-- .slide: class="closing" data-background-image="/split-background.webp" -->
+<!-- .slide: class="closing" data-background-image="/split-background.png" -->
 
 # Thank you all!
 

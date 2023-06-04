@@ -7,3 +7,10 @@ module.exports = function (environment) {
 
   return ENV;
 };
+
+// turn off image fingerprinting
+module.exports['ember-cli-build'] = {
+  fingerprint: {
+    extensions: ['js', 'css', 'map']
+  }
+}
